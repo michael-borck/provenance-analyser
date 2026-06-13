@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.11"
 license = { text = "MIT" }
 authors = [{ name = "Michael Borck", email = "michael.borck@curtin.edu.au" }]
-keywords = ["provenance", "metadata", "authorship", "ai-detection", "office", "pdf", "lens"]
+keywords = ["provenance", "metadata", "authorship", "office", "pdf", "lens"]
 classifiers = [
     "Development Status :: 3 - Alpha",
     "Intended Audience :: Developers",
