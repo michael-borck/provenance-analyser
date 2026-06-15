@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "provenance-analyser"
-version = "0.1.0"
+version = "0.2.0"
 description = "Document provenance/metadata analysis — creator app, editing time, author chain, AI-gen markers"
 readme = "README.md"
 requires-python = ">=3.11"
